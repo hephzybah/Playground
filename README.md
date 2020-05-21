@@ -1,3 +1,5 @@
 # Playground
-Hello, World. This is my little playground
-There is a tyopgraphicel error here.
+Hello, World. This is my little playground.
+There is a typographical error here.
+😎
+
